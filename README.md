@@ -1,5 +1,5 @@
 # Nutriton App For Athlete App Using Streamlit
- **Food Logging**: Users can log their meals, including snacks, and get detailed nutritional information.
+- **Food Logging**: Users can log their meals, including snacks, and get detailed nutritional information.
 - **Nutrient Analysis**: The app calculates total calories, fats, proteins, and carbohydrates.
 - **Historical Data**: Users can view their past intake and analyze trends over time.
 - **Nutrient Information**:Users can view nutrients of any food item
