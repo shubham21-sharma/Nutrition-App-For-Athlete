@@ -13,4 +13,4 @@ What things you need to install the software and how to install them:
 
 - Python (3.8 or higher recommended)
 - Streamlit(1.31.0 or higher recommended)
-- 
+  
